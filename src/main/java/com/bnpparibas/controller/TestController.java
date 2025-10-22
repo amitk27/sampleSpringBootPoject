@@ -1,4 +1,4 @@
-package com.bnpparibas;
+package com.bnpparibas.controller;
 
 
 import org.springframework.http.HttpStatusCode;
