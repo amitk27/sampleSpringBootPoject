@@ -14,6 +14,6 @@ public class TestController {
     @GetMapping("/getData")
     public ResponseEntity<String> getData(){
 
-        return  new ResponseEntity<>("Hello", HttpStatusCode.valueOf(200));
+        return  new ResponseEntity<>("Hello My name is Amit and his sister's name is diksha and mini", HttpStatusCode.valueOf(200));
     }
 }
